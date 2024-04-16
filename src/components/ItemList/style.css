@@ -1,0 +1,15 @@
+.item-List {
+    margin: 24px 0;
+}
+
+.item-List strong {
+    color: #539BF5;
+    font-size: 24px;
+    margin-top: 24px 0;
+}
+
+.item-List p {
+    color: #999999;
+    font-size: 12px;
+    margin-top: 24px 0;
+}
